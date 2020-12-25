@@ -288,6 +288,10 @@ h2 {
     color: #758973;
     cursor: pointer;
 }
+.social a:active {
+    color: #758973;
+    cursor: pointer;
+}
 
 .facebook, .instagram {
      width: 60px;
@@ -300,6 +304,16 @@ h2 {
     cursor: pointer;
 }
 .instagram:hover {
+    background-color: #758973;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.facebook:active {
+    background-color: #758973;
+    cursor: pointer;
+}
+.instagram:active {
     background-color: #758973;
     border-radius: 15px;
     cursor: pointer;
@@ -648,6 +662,27 @@ img.vegeterian, img.vegan, img.nut, img.fish, img.gluten{
     font-size: 18px;
 }
 
+.download {
+    height: 100px;
+    padding: 0;
+    margin:0;
+}
+
+.download a {
+    color: #262626;
+}
+
+.download a:hover {
+   color: #758973;
+   cursor: pointer;
+}
+
+.download a:active {
+    color: #758973;
+    cursor: pointer;
+ }
+ 
+
 .starter, .main, .dessert  {
     width: 100%;
     height: 680px;
@@ -853,6 +888,8 @@ h1 {
 .allergy {
     height: 500px;
 }
+
+
 
 .starter {
     height: 650px;
