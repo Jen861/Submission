@@ -281,11 +281,11 @@ h2 {
 
 
  .social a {
-     color: #758973;
+     color: #262626;
  }
 
  .social a:hover {
-    color: #262626;
+    color: #758973;
     cursor: pointer;
 }
 
