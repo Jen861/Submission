@@ -83,6 +83,10 @@ h1:hover {
     color: #758973;
  
 }
+.navbar-links a:active {
+    color: #758973;
+ 
+}
 .navbar-links a.current {
     color: #E8BF58;
     text-decoration: underline;
